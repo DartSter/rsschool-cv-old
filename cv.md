@@ -17,7 +17,7 @@ Persistent self-education day by day no day-off over 18 month. No real experienc
 *	React (Basic)
 * TS (Basic)
 ***
-## Code Expamlpe
+## Code Example
 **Description**: Your task is to implement our beloved Array.prototype.map function from a scratch, and yes, it has to be inside the Array's prototype. Don't know what a 'prototype' is? This could help you a little as well as this kata.
 
 Moving on, the defaults for Array.prototype.map, Array.prototype.reduce, Array.prototype.reduceRight and Array.prototype.forEach will be banned, in other words you'll have to create map from scratch.
